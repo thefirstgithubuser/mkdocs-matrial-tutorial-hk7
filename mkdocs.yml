@@ -5,8 +5,8 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/logo.jpg
-  favicon: assets/favicon.jpg
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.footer
   palette:
